@@ -12,13 +12,13 @@ Le parcours de formation complet est conçu et créé pour que les enseignants e
 
 - un "manuel en ligne",
 
-- des webinaires pour partager des pratiques et des opinions,
+- des webinaires pour partager des pratiques et des points de vue,
 
 - et des formations guidées, en présentiel et en ligne, pour permettre aux participants d'interagir avec des experts en IA et en éducation.
 
-La durée totale de la formation prévue est de 3 mois sur une période allant de novembre 2022 à mars 2023 en fonction des pays impliqués dans l'expérience.
+La durée totale de la formation prévue est de 3 mois sur une période allant de janvier 2023 à mars 2023 en fonction des pays impliqués dans l'expérimentation.
 
-Une représentation graphique aide parfois à comprendre comment cela va fonctionner.
+Une représentation graphique aide à comprendre comment cela va fonctionner.
 
 <figure>
   <img src="Images/AI4T-Training-pathway.png" alt="AI4T total project duration"/>
