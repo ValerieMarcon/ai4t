@@ -9,7 +9,7 @@ description: Situer la formation dans le cadre européen
 
 Conçue dans un format mixte avec des parties autonomes en ligne et des sessions guidées en face à face, la formation sur l'intelligence artificielle pour les enseignants et les chefs d'établissement est développée et expérimentée au niveau européen dans 5 pays : France, Irlande, Italie, Luxembourg et Slovénie.
 
-Cette formation comporte plusieurs niveaux d'objectifs:
+Cette formation comporte plusieurs niveaux d'objectifs :
 
 - **Démystifier et comprendre l'IA** ;
 
@@ -19,7 +19,7 @@ Cette formation comporte plusieurs niveaux d'objectifs:
 
 Le premier niveau "**démystifier et comprendre**" l'IA dans le domaine spécifique de l'éducation vise à dépasser les discours enthousiastes ou inquiets sur l'IA. Il ne s'agit pas uniquement de souligner le potentiel de l'IA ou à l'inverse de renoncer à l'utiliser avant même d'en avoir fait l'expérience d'avoir analysé cette dernière.
 
-la formation conduit à identifier des types d'IA et des exemples d'algorithmes d'IA afin d'en expliquer les principes généraux et de faire comprendre les effets recherchés, les biais possibles, les avantages obtenus ou les situations inacceptables.
+La formation conduit à identifier des types d'IA et des exemples d'algorithmes d'IA afin d'en expliquer les principes généraux et de faire comprendre les effets recherchés, les biais possibles, les avantages obtenus ou les situations inacceptables.
 
 Le projet vise à répondre à certaines questions directes telles que : Quelles sont les techniques d'IA disponibles et utiles pour tel objectifs précis ? Quels développements sont nécessaires pour mon contexte d'enseignement ? Quelle aide peut-elle m'apporter ? Quelles questions dois-je me poser pour démarrer de manière raisonnée ?
 
